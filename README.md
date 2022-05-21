@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zen White , just 17 years old student, learning development as hobby, 1 year expirence in Wpf,Uwp Development
 - 👀 I’m interested in UI Designing, Desktop Development (Wpf, Uwp, WinUI3, c#), Web Development (html, css, javascript)
-- 🌱 I’m currently learning UWP
+- 🌱 I’m currently learning UWP, CSS
 - 💞️ I’m looking for developers who can join me in creating a Complete Application Set for evrything with ModerUI layouts.
 - 📫 How to reach - Email - lightningcrystal77@gmail.com , WhatsApp : +91 9430082535
 
